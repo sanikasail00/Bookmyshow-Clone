@@ -1,0 +1,56 @@
+/* Default light mode */
+.carousel-container {
+  width: 80%;
+  margin: auto;
+  padding-top: 20px;
+  background-color: #f9f9f9;
+  color: #000;
+  text-align: center;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.carousel-image {
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* Dark mode */
+.dark-mode {
+  background-color: #222;
+  color: white;
+}
+
+.dark-mode .carousel-caption {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Toggle button */
+.toggle-button {
+  padding: 8px 16px;
+  margin-bottom: 10px;
+  border: none;
+  cursor: pointer;
+  background: #007bff;
+  color: white;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.toggle-button:hover {
+  background: #0056b3;
+}
+
+  
+  .carousel-caption p {
+    color: #ffffff;
+    font-size: 1.2rem;
+  }
+  
