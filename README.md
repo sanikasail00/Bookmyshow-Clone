@@ -1,3 +1,4 @@
+
 **BookMyShow Clone**
 
 🎟️ **Project Overview****
@@ -56,11 +57,17 @@ bookmyshow/
 Follow these steps to set up the project on your local system:
 
 1️⃣ _Clone the Repository_
+
 git clone https://github.com/sanikasail00/Bookmyshow-Clone.git
+
 cd Bookmyshow-Clone
+
 2️⃣ _Install Dependencies_
+
 npm install
+
 3️⃣_ Run the Application_
+
 npm start
 
 4️⃣ **Open in Browser**
@@ -68,7 +75,9 @@ npm start
 Go to http://localhost:3000 to see the application in action.
 
 🎥 Output Preview
-link: ["C:\Users\sudes\OneDrive\Desktop\assignment1\bookmyshow\public\assests"]
+
+![Home page](https://github.com/user-attachments/assets/6e736538-b6f9-4497-b197-81c66bfef789)
+
 
 📌 **Future Enhancements**
 
