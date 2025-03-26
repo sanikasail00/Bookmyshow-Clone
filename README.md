@@ -77,6 +77,15 @@ Go to http://localhost:3000 to see the application in action.
 🎥 Output Preview
 
 ![Home page](https://github.com/user-attachments/assets/6e736538-b6f9-4497-b197-81c66bfef789)
+![Details](https://github.com/user-attachments/assets/15a519ed-1047-41a3-a629-ca3c5dbdcb97)
+![MovieList (2)](https://github.com/user-attachments/assets/f4efb72e-1b79-4b5f-a185-590cc25cd0c9)
+![Events](https://github.com/user-attachments/assets/0bee7345-8fa5-4051-ad11-27a3540b28c9)
+![Offers](https://github.com/user-attachments/assets/657bcd9b-f071-4113-b67b-30296e68f20c)
+![Sports](https://github.com/user-attachments/assets/ba34b1a2-169b-4689-a3d5-2fa2586183a9)
+![Payment](https://github.com/user-attachments/assets/4cd1deb1-eb53-4bcd-9678-a11533569225)
+![Login In](https://github.com/user-attachments/assets/7b54e0b6-50f8-434e-8113-797662dee308)
+![Signup validation](https://github.com/user-attachments/assets/2cf41ee6-2534-4c04-a6b2-928da320d4c1)
+![Toggle](https://github.com/user-attachments/assets/2695f91a-7d20-4f93-bd55-5d573a4c9878)
 
 
 📌 **Future Enhancements**
